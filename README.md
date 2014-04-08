@@ -1,4 +1,4 @@
 PushFrameworkDemo
 =================
 
-PushFrameworkDemo
+Exercising AeroGearPush Framework 
